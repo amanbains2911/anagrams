@@ -1,5 +1,5 @@
 # viafoura
-Anagrams Viafoura assignment steps :
+Anagrams steps :
 1)Login in to the docker hub via existing credentials and type the command docker login  .
 2)Run the following command--> docker pull amanbains11/viafoura-anagram .
 3)Once the image is pulled , check the docker images via the command --> docker images .
